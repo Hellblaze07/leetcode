@@ -3,12 +3,7 @@ public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int n=image.size();
         int m=image[0].size();
-        vector <vector<int>> flood(n,vector <int> (m));
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            flood[i][j]=image[i][j];
-        }
+        vector <vector<int>> flood=image;
         vector <int> dx={-1,0,1,0};
         vector <int> dy={0,1,0,-1};
         int ini=image[sr][sc];
