@@ -15,6 +15,8 @@ public:
             int row=qe.top().second.first;
             int col=qe.top().second.second;
             qe.pop();
+            if(row == n-1 && col == m-1)
+            return diff;
             for(int i=0;i<4;i++)
             {
                 int nrow=row+dx[i];
