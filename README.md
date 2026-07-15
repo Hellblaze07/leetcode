@@ -76,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Hellblaze07/leetcode/tree/master/0127-word-ladder) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Hellblaze07/leetcode/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Hellblaze07/leetcode/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Hellblaze07/leetcode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
