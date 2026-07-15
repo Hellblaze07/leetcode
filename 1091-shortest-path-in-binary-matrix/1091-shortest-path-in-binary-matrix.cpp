@@ -22,7 +22,7 @@ public:
                     int ncol=col+j;
                     if(nrow >= 0 && ncol >= 0 && nrow <n && ncol < n && grid[nrow][ncol] == 0)
                     {
-                        if((dis+1 < dist[nrow][ncol]) || (dist[nrow][ncol] == -1))
+                        if(dist[nrow][ncol] == -1)
                         {
                             dist[nrow][ncol]=dis+1;
                             qe.push({dist[nrow][ncol],{nrow,ncol}});
