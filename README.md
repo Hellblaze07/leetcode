@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Hellblaze07/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Hellblaze07/leetcode/tree/master/1765-map-of-highest-peak) |
 ## Depth-First Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Hellblaze07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Hellblaze07/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Hellblaze07/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Hellblaze07/leetcode/tree/master/1765-map-of-highest-peak) |
 ## Matrix
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Hellblaze07/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Hellblaze07/leetcode/tree/master/1765-map-of-highest-peak) |
 ## Dynamic Programming
 |  |
