@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Hellblaze07/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/Hellblaze07/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hellblaze07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hellblaze07/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hellblaze07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Hellblaze07/leetcode/tree/master/0127-word-ladder) |
+| [0904-fruit-into-baskets](https://github.com/Hellblaze07/leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -137,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hellblaze07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Hellblaze07/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hellblaze07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
