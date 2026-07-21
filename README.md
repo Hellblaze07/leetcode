@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hellblaze07/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Hellblaze07/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Hellblaze07/leetcode/tree/master/0827-making-a-large-island) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Hellblaze07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hellblaze07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Hellblaze07/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Hellblaze07/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Hellblaze07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Hellblaze07/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Hellblaze07/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Hellblaze07/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hellblaze07/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Hellblaze07/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Hellblaze07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Hellblaze07/leetcode/tree/master/0827-making-a-large-island) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Hellblaze07/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Hellblaze07/leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hellblaze07/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/Hellblaze07/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hellblaze07/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Hellblaze07/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Hellblaze07/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Hellblaze07/leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hellblaze07/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hellblaze07/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -190,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Hellblaze07/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
