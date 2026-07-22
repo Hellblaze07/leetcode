@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hellblaze07/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hellblaze07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/Hellblaze07/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1765-map-of-highest-peak](https://github.com/Hellblaze07/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2643-row-with-maximum-ones](https://github.com/Hellblaze07/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Depth-First Search
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Hellblaze07/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Hellblaze07/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hellblaze07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hellblaze07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Hellblaze07/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hellblaze07/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Hellblaze07/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 ## Shortest Path
 |  |
 | ------- |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 ## Recursion
 |  |
 | ------- |
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hellblaze07/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Hellblaze07/leetcode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 <!---LeetCode Topics End-->
