@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hellblaze07/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Hellblaze07/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hellblaze07/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hellblaze07/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Hellblaze07/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/Hellblaze07/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Hellblaze07/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -215,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hellblaze07/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Hellblaze07/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
