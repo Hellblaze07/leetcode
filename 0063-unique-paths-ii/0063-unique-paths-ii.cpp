@@ -17,6 +17,7 @@ public:
                  {
                     temp[j]+=temp[j-1];
                  }
+                 
                }
             }
             prev=temp;
