@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hellblaze07/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hellblaze07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Hellblaze07/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hellblaze07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Hellblaze07/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
 | ------- |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hellblaze07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Hellblaze07/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
