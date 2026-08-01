@@ -10,12 +10,12 @@ public:
     }
     if(chance)
     {
-      if(func(i+1,j,nums,sum1+nums[i],sum2,!chance) || func(i,j-1,nums,sum1+nums[j],sum2,!chance))
-      return true;
+     return (func(i+1,j,nums,sum1+nums[i],sum2,!chance) || func(i,j-1,nums,sum1+nums[j],sum2,!chance));
+    
     }
     else {
-     if(func(i+1,j,nums,sum1,sum2+nums[i],!chance) && func(i,j-1,nums,sum1,sum2+nums[j],!chance))
-      return true;
+  return (func(i+1,j,nums,sum1,sum2+nums[i],!chance) && func(i,j-1,nums,sum1,sum2+nums[j],!chance));
+      
     }
     return false;
   }
