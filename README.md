@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Hellblaze07/leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hellblaze07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Hellblaze07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hellblaze07/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hellblaze07/leetcode/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Hellblaze07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
