@@ -1,18 +1,22 @@
 class Solution {
 public:
-    int func(int i,int j,vector<vector<int>>& triangle,vector<vector<int>>& dp)
-    {  int n=triangle.size();
-      if(i == n-1)
-      return triangle[i][j];
-      if(dp[i][j] != 1e9)
-      return dp[i][j];
-    int sum1=triangle[i][j]+func(i+1,j,triangle,dp);
-    int sum2=triangle[i][j]+func(i+1,j+1,triangle,dp);
-    return dp[i][j] = min(sum1,sum2);
-    }
     int minimumTotal(vector<vector<int>>& triangle) {
-
-        vector <vector <int>> dp(207,vector <int> (207,1e9));
-        return func(0,0,triangle,dp);
+        int n=triangle.size();
+        vector <int> prev(n,0);
+        for(int i=0;i<n;i++)
+        {
+            prev[i]=triangle[n-1][i];
+        }
+        for(int i=n-2;i>=0;i--)
+        {    vector <int> curr(n,0);
+            for(int j=i;j>=0;j--)
+            {
+               int sum1=triangle[i][j]+prev[j];
+               int sum2=triangle[i][j]+prev[j+1];
+               curr[j]=min(sum1,sum2);
+            }
+            prev=curr;
+        }
+        return prev[0];
     }
 };
