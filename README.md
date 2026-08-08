@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hellblaze07/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Hellblaze07/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Hellblaze07/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0416-partition-equal-subset-sum](https://github.com/Hellblaze07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Hellblaze07/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Hellblaze07/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Hellblaze07/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Hellblaze07/leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Hellblaze07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Hellblaze07/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Hellblaze07/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
@@ -282,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hellblaze07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Hellblaze07/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Hellblaze07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
