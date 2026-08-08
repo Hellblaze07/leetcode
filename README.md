@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Hellblaze07/leetcode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Hellblaze07/leetcode/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/Hellblaze07/leetcode/tree/master/0877-stone-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hellblaze07/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Hellblaze07/leetcode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Hellblaze07/leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Hellblaze07/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Hellblaze07/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/Hellblaze07/leetcode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hellblaze07/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Hellblaze07/leetcode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Hellblaze07/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
