@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Hellblaze07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hellblaze07/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/Hellblaze07/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hellblaze07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1463-cherry-pickup-ii](https://github.com/Hellblaze07/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Hellblaze07/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Hellblaze07/leetcode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hellblaze07/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Hellblaze07/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Hellblaze07/leetcode/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Hellblaze07/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Hellblaze07/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Hellblaze07/leetcode/tree/master/1510-stone-game-iv) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Hellblaze07/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Hellblaze07/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Hellblaze07/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Hellblaze07/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hellblaze07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/Hellblaze07/leetcode/tree/master/1510-stone-game-iv) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Hellblaze07/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hellblaze07/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hellblaze07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Hellblaze07/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hellblaze07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hellblaze07/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hellblaze07/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Hellblaze07/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Hellblaze07/leetcode/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Hellblaze07/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Hellblaze07/leetcode/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -310,5 +316,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Hellblaze07/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Hellblaze07/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
