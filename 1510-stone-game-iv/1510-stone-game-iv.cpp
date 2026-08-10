@@ -1,33 +1,24 @@
 class Solution {
 public:
-    int func(int n,int chance,vector<vector<int>>&dp)
+    int func(int n,vector<int>&dp)
     {
       if(n<=0)
      {
-        if(chance == 0)
-        return false;
-        else return true;
+       return 0; 
      }
-     if(dp[n][chance] != -1)
-     return dp[n][chance];
-        for(int i=1;i*i<=n;i++)
+     if(dp[n] != -1)
+     return dp[n];
+
+     for(int i=1;i*i<=n;i++)
       {
-        if(chance == 0)
-        {
-            if(func(n-i*i,!chance,dp) == true)
-            return dp[n][chance]= true;
-        }
-        else {
-            if(func(n-i*i,!chance,dp) == false)
-            return dp[n][chance]=false;
-        }
+        if( func(n-i*i,dp) == 0)
+        return dp[n]=1;
       }
-      if(chance == 0)
-      return dp[n][chance]=false;
-      else return dp[n][chance]=true;
+      return dp[n]=0;
+      
     }
     bool winnerSquareGame(int n) {
-        vector <vector<int>> dp(n+1,vector <int> (2,-1));
-        return func(n,0,dp);
+        vector<int> dp(n+1,-1);
+        return func(n,dp);
     }
 };
