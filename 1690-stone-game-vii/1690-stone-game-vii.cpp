@@ -2,25 +2,36 @@ class Solution {
 public:
     vector<int> ar;
     vector<int> pre;
-    int sum;
-    int dp[1005][1005];
-    int get(int l,int r){
-        if(l>r)return 0;
-        if(dp[l][r]!=-1)return dp[l][r];
+    int dp[1005][1005][2];
+    int func(int l,int r,int chance){
+        if(r - l == 1)
+        {
+            if(chance == 0)
+            return max(ar[l],ar[r]);
+        }
+        if(r == l)
+        return 0;
+        if(dp[l][r][chance]!=-1)return dp[l][r][chance];
         int mx=INT_MIN;
         // cout<<pre[r+1]-pre[l]<<' ';
-        mx=max(mx,pre[r+1]-pre[l+1]-get(l+1,r));
-        mx=max(mx,pre[r]-pre[l]-get(l,r-1));
-        return dp[l][r]=mx;
+        if(chance == 0)
+      {  mx=max(mx,func(l+1,r,!chance));
+        mx=max(mx,func(l,r-1,!chance));
+        return dp[l][r][chance]=mx;
+      }
+      else {
+        int mx=INT_MAX;
+        mx=min(mx,ar[l]+func(l+1,r,!chance));
+        mx=min(mx,ar[r]+func(l,r-1,!chance));
+       return dp[l][r][chance]=mx;
+      }
+      return 0;
     }
     int stoneGameVII(vector<int>& stones) {
         ar=stones;
         int n=stones.size();
         pre.resize(n+1);
         memset(dp,-1,sizeof dp);
-        for(int i=0;i<n;i++)pre[i+1]=pre[i]+stones[i];
-        // for(auto &i:pre)cout<<i<<' ';
-        sum=accumulate(stones.begin(),stones.end(),0);
-        return get(0,n-1);
+        return func(0,n-1,0);
     }
 };
