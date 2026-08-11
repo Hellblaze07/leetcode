@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hellblaze07/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Hellblaze07/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Hellblaze07/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Hellblaze07/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hellblaze07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Hellblaze07/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hellblaze07/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Hellblaze07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hellblaze07/leetcode/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Hellblaze07/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Hellblaze07/leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Hellblaze07/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Hellblaze07/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Hellblaze07/leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Hellblaze07/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hellblaze07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Hellblaze07/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Hellblaze07/leetcode/tree/master/0509-fibonacci-number) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Hellblaze07/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hellblaze07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -333,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Hellblaze07/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Hellblaze07/leetcode/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/Hellblaze07/leetcode/tree/master/1690-stone-game-vii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Hellblaze07/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
