@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hellblaze07/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Hellblaze07/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Hellblaze07/leetcode/tree/master/0827-making-a-large-island) |
+| [0886-possible-bipartition](https://github.com/Hellblaze07/leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Hellblaze07/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Hellblaze07/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hellblaze07/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Hellblaze07/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Hellblaze07/leetcode/tree/master/0827-making-a-large-island) |
+| [0886-possible-bipartition](https://github.com/Hellblaze07/leetcode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hellblaze07/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Hellblaze07/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Hellblaze07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Hellblaze07/leetcode/tree/master/0827-making-a-large-island) |
+| [0886-possible-bipartition](https://github.com/Hellblaze07/leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Hellblaze07/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Hellblaze07/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Hellblaze07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hellblaze07/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Hellblaze07/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/Hellblaze07/leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Hellblaze07/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Hellblaze07/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Hellblaze07/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -353,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Hellblaze07/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Hellblaze07/leetcode/tree/master/0518-coin-change-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Hellblaze07/leetcode/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Hellblaze07/leetcode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
