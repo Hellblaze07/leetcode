@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Hellblaze07/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hellblaze07/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hellblaze07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Hellblaze07/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Hellblaze07/leetcode/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/Hellblaze07/leetcode/tree/master/1690-stone-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Hellblaze07/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Hellblaze07/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Union-Find
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Hellblaze07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Hellblaze07/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hellblaze07/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Hellblaze07/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Sliding Window
 |  |
 | ------- |
