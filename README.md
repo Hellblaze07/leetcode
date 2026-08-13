@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hellblaze07/leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Hellblaze07/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Hellblaze07/leetcode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Hellblaze07/leetcode/tree/master/0120-triangle) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hellblaze07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Hellblaze07/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hellblaze07/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Hellblaze07/leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hellblaze07/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hellblaze07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Hellblaze07/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hellblaze07/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Hellblaze07/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Hellblaze07/leetcode/tree/master/0127-word-ladder) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hellblaze07/leetcode/tree/master/0049-group-anagrams) |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/Hellblaze07/leetcode/tree/master/1686-stone-game-vi) |
