@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1690-stone-game-vii](https://github.com/Hellblaze07/leetcode/tree/master/1690-stone-game-vii) |
 | [1765-map-of-highest-peak](https://github.com/Hellblaze07/leetcode/tree/master/1765-map-of-highest-peak) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Hellblaze07/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2402-meeting-rooms-iii](https://github.com/Hellblaze07/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2643-row-with-maximum-ones](https://github.com/Hellblaze07/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hellblaze07/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Hellblaze07/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Hellblaze07/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Hellblaze07/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Hellblaze07/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hellblaze07/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hellblaze07/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Hellblaze07/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Hellblaze07/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Hellblaze07/leetcode/tree/master/1765-map-of-highest-peak) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Hellblaze07/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hellblaze07/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hellblaze07/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Hellblaze07/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Hellblaze07/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Hellblaze07/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Hellblaze07/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hellblaze07/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hellblaze07/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Hellblaze07/leetcode/tree/master/1510-stone-game-iv) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1690-stone-game-vii](https://github.com/Hellblaze07/leetcode/tree/master/1690-stone-game-vii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Hellblaze07/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hellblaze07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -383,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Hellblaze07/leetcode/tree/master/2402-meeting-rooms-iii) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Hellblaze07/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
