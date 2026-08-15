@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hellblaze07/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hellblaze07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Hellblaze07/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Hellblaze07/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -416,4 +417,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Hellblaze07/leetcode/tree/master/0397-integer-replacement) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Hellblaze07/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
