@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Hellblaze07/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hellblaze07/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hellblaze07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Hellblaze07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Hellblaze07/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Hellblaze07/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Hellblaze07/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Hellblaze07/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Hellblaze07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Geometry
 |  |
 | ------- |
