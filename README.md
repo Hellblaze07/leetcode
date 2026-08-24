@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hellblaze07/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hellblaze07/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Hellblaze07/leetcode/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/Hellblaze07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hellblaze07/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/Hellblaze07/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Hellblaze07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0633-sum-of-square-numbers](https://github.com/Hellblaze07/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -430,4 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/Hellblaze07/leetcode/tree/master/0397-integer-replacement) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Hellblaze07/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Hellblaze07/leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Hellblaze07/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
