@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Hellblaze07/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Hellblaze07/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Hellblaze07/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Hellblaze07/leetcode/tree/master/0741-cherry-pickup) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Hellblaze07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hellblaze07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Hellblaze07/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Hellblaze07/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Hellblaze07/leetcode/tree/master/0743-network-delay-time) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hellblaze07/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Hellblaze07/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Hellblaze07/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Hellblaze07/leetcode/tree/master/0743-network-delay-time) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Hellblaze07/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hellblaze07/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Hellblaze07/leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Hellblaze07/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hellblaze07/leetcode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Hellblaze07/leetcode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Hellblaze07/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hellblaze07/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Hellblaze07/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Hellblaze07/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Hellblaze07/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Hellblaze07/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Hellblaze07/leetcode/tree/master/0785-is-graph-bipartite) |
