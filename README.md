@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Hellblaze07/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Hellblaze07/leetcode/tree/master/1690-stone-game-vii) |
 | [1765-map-of-highest-peak](https://github.com/Hellblaze07/leetcode/tree/master/1765-map-of-highest-peak) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Hellblaze07/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Hellblaze07/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2402-meeting-rooms-iii](https://github.com/Hellblaze07/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2643-row-with-maximum-ones](https://github.com/Hellblaze07/leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Hellblaze07/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/Hellblaze07/leetcode/tree/master/1686-stone-game-vi) |
 | [1927-sum-game](https://github.com/Hellblaze07/leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Hellblaze07/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hellblaze07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
