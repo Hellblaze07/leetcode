@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Hellblaze07/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Hellblaze07/leetcode/tree/master/1690-stone-game-vii) |
 | [1765-map-of-highest-peak](https://github.com/Hellblaze07/leetcode/tree/master/1765-map-of-highest-peak) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hellblaze07/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hellblaze07/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Hellblaze07/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2402-meeting-rooms-iii](https://github.com/Hellblaze07/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Hellblaze07/leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Hellblaze07/leetcode/tree/master/0494-target-sum) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hellblaze07/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Game Theory
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hellblaze07/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hellblaze07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Knapsack Problem
 |  |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Hellblaze07/leetcode/tree/master/0397-integer-replacement) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hellblaze07/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Hellblaze07/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
