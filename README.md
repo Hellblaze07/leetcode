@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hellblaze07/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hellblaze07/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Hellblaze07/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Hellblaze07/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2402-meeting-rooms-iii](https://github.com/Hellblaze07/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2643-row-with-maximum-ones](https://github.com/Hellblaze07/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hellblaze07/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Hellblaze07/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Hellblaze07/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Hellblaze07/leetcode/tree/master/1765-map-of-highest-peak) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Hellblaze07/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/Hellblaze07/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Hellblaze07/leetcode/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/Hellblaze07/leetcode/tree/master/1690-stone-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Hellblaze07/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Hellblaze07/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Hellblaze07/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Union-Find
 |  |
@@ -480,4 +483,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hellblaze07/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Hellblaze07/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
